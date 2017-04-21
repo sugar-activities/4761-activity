@@ -1,0 +1,12 @@
+[Activity]
+name = Bibliography
+bundle_id = org.sugarlabs.BibliographyActivity
+icon = activity-bibliography
+exec = sugar-activity activity.BibliographyActivity
+activity_version = 5
+max_participants = 100
+show_launcher = yes
+summary = Need a bibliography?  Bibliography Activity can help you manage and create a Harvard style bibliography!
+categories = documents teacher
+repository = https://github.com/samdroid-apps/bibliography-activity
+

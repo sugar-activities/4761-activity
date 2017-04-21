@@ -1,0 +1,31 @@
+5
+
+* New icon
+* Import from Browse - Turn bookmarks into bibliographies the new wizard view.
+    View the web page on the left and the bibliography formatter on the right
+    so that you don't need to go back and forth between browse activity.  Plus,
+    Bibliography activity will automatically insert the webpage URL, title and
+    date accessed into the correct bibliography fields.
+* Uses the PopWindow module
+
+4
+
+* Add collaberation support - you can now work with a friend to add, edit
+  and delete bibliography items
+
+3
+
+* Export as Write document (abiword format)
+* Improved scrolling (scrollbars now visible, ScrollingDetector)
+* Use bundle launcher to open offer to open exported files
+* Use sugar style palettes instaed of GtkMenu palettes
+* Icon improvements
+* Small visual improvements
+
+2
+
+* Fixed typo thanks to Quozl
+
+1
+
+* First release

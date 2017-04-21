@@ -1,0 +1,22 @@
+.add-new-treeview {
+    color: white;
+    background-color: black;
+}
+
+BibliographyBaseWindow, .window-event-box {
+    background-color: white;
+
+    border-width: 3px; /* FIXME: should be 2px * scale */
+    border-style: solid;
+    border-color: #A6A6A6; /* @selection_grey from gtk3 theme */
+
+    border-top: 0;
+}
+
+BibliographyMainList row:nth-child(even) {
+    background-color: #E5E5E5; /* @row_even from gtk3 theme */
+}
+
+BibliographyMainList row:nth-child(odd) {
+    background-color: #D5D5D5; /* @row_odd from gtk3 theme */
+}
